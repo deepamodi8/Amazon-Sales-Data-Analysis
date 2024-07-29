@@ -31,6 +31,7 @@ producing, and delivering products sold, including operational expenses.
 producing, and delivering it
 
 **Insights**
+
 The Total sales are 137.35 million out of which the total profit is 44.17 million
 • Amazon Sales spread in 76 Countries and 7 Regions
 • There are a total of 12 Item Types sold on Amazon as per the dataset
